@@ -1,0 +1,12 @@
+Steps for Ubuntu 
+----------------
+
+Monaco Font from https://github.com/todylu/monaco.ttf
+
+Add to system using Ubuntu `font-manager`.
+
+
+Gedit Plugin from https://grigio.org/files/darkmate.xml
+
+Edit -> Preferences -> Font & Colors -> + Install Scheme 
+
